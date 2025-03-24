@@ -8,6 +8,9 @@ namespace ProgrammingLanguage.Data
 {
     using System.ComponentModel.DataAnnotations;
 
+    /// <summary>
+    /// Entity
+    /// </summary>
     public class ProgrammingLanguage
     {
         [Key]
